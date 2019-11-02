@@ -72,4 +72,11 @@ background-image:url('images/backgrounds/c_image.jpg');
 height: 100vh;
 width: 100%;
 background-repeat: no-repeat;
+color:white;
+}
+
+#form{
+display: flex;
+justify-content: center;
+
 }
