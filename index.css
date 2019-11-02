@@ -50,5 +50,16 @@ padding-top: 30px;
 .do{
     display:flex;
     justify-content:space-around;
+}
 
+/*PORTFOLIO*/
+
+.port{
+    display:flex;
+    justify-content:space-around;
+}
+
+.port1{
+    display:flex;
+    justify-content:space-around;
 }
