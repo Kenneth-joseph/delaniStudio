@@ -56,10 +56,11 @@ padding-top: 30px;
 
 .port{
     display:flex;
-    justify-content:space-around;
+    justify-content:space-evenly;
 }
 
 .port1{
     display:flex;
-    justify-content:space-around;
+    justify-content:space-evenly;
+    
 }
