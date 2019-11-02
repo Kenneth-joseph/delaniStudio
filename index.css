@@ -64,3 +64,12 @@ padding-top: 30px;
     justify-content:space-evenly;
     
 }
+
+/*CONTACT US*/
+
+.contact{
+background-image:url('images/backgrounds/c_image.jpg');
+height: 100vh;
+width: 100%;
+background-repeat: no-repeat;
+}
