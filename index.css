@@ -2,7 +2,7 @@
 #img{
 
 background-image: url('images/backgrounds/h_img.jpg');
-height: 100vh;
+height: 80vh;
 width: 100%;
 color: white;
 /* margin: 0 auto; */
@@ -13,7 +13,7 @@ justify-content: center;
 }
 
  #logo{
-padding-top: 330px;
+padding-top: 200px;
 
 }
 #mouse{
@@ -31,14 +31,13 @@ font-size: 50px;
 /*ABOUT US*/
 h3{
 text-align: center;
-padding-top: 40px;
+padding-top: 30px;
 }
 /*SERVICES*/
 
 #serv{
 position:relative;
 background-image: url('images/backgrounds/s_image.jpg');
-height: 50vh;
 width: 100%;
 background-repeat: no-repeat;
 color:white;
@@ -69,7 +68,7 @@ padding-top: 30px;
 
 .contact{
 background-image:url('images/backgrounds/c_image.jpg');
-height: 80vh;
+/* height: 50vh; */
 width: 100%;
 background-repeat: no-repeat;
 color:white;
@@ -84,7 +83,6 @@ justify-content: center;
 #form input{
 width: 30%;
 background-color: transparent;
-margin-top: 60px;
 color:white;
 }
 ::placeholder{
@@ -95,13 +93,13 @@ color:white;
 textarea{
 background-color: transparent;
 color:white;
-margin-top:50px;
+margin-top:20px;
+margin-bottom: 10px;
 }
 
 .text{
 display: flex;
 justify-content: center;
-margin-top: 20px;
 }
 
 /*SOCIAL ICONS*/
