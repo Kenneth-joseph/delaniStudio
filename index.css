@@ -69,7 +69,7 @@ padding-top: 30px;
 
 .contact{
 background-image:url('images/backgrounds/c_image.jpg');
-height: 100vh;
+height: 80vh;
 width: 100%;
 background-repeat: no-repeat;
 color:white;
@@ -102,4 +102,14 @@ margin-top:50px;
 display: flex;
 justify-content: center;
 margin-top: 20px;
+}
+
+/*SOCIAL ICONS*/
+.social{
+ display:flex;
+ justify-content:center;
+}
+
+.social img{
+    padding: 20px;
 }
