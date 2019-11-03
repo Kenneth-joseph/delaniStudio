@@ -80,3 +80,26 @@ display: flex;
 justify-content: center;
 
 }
+
+#form input{
+width: 30%;
+background-color: transparent;
+margin-top: 60px;
+color:white;
+}
+::placeholder{
+    color: white;
+    padding: 10px;
+}
+
+textarea{
+background-color: transparent;
+color:white;
+margin-top:50px;
+}
+
+.text{
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
