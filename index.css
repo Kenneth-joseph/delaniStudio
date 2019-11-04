@@ -107,7 +107,7 @@ width:20%;
 }
 #form input[type=button]{
     width:5%;
-    background-color: black;
+    background-color:grey;
     margin-bottom: 10px;
 }
 
