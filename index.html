@@ -4,8 +4,13 @@
         <title>
 
         </title>
+        <script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="index.css">
+        <script src="app.js"></script>
 
     </head>
     <body>
@@ -54,18 +59,52 @@
     </div>
 
     <!--WHAT WE DO-->
+    <h3 class="text-sm-center"><strong>WHAT WE DO</strong></h3>
     <div class="row">
         
-        <div class="col-12">
-                <h3 class="text-sm-center"><strong>WHAT WE DO</strong></h3>
-        <div class="do p-5">
-           <img src="images/services_icons/design_icon.png"> 
+        <div class="col-4 text-center p-5">
+             <div id="image1">  
+                <img src="images/services_icons/design_icon.png"> 
+             </div>
+             
+           <div id="para1" class="d-none">
+           <p class="text-center">
+            Our design practices offer a full range of services
+            including brand strategy, interaction and visual design</br>
+            and users experience testing</br>
+            through your project our designer create and implement viual design and workflows,</br>
+            solicit users feedback and work with you to make sure what gets built is what is needed
+           </p>
+          </div>
+        </div>
+          
+        <div class="col-4 bg-danger text-center p-5">
+
+              <div id="image2">
            <img src="images/services_icons/dev_icon.png">
-           <img src="images/services_icons/product_icon.png">
+             </div>
+
+             <div id="para2" class="d-none">
+                 <p class="text-center">
+                   meeeeeeeeeeeeeeeeeee
+                 </p>
+             </div>
 
         </div>
-    </div>
-    </div>
+            
+          <div class="col-4 bg-warning text-center p-5">
+        <div id="image3">
+           <img src="images/services_icons/product_icon.png">
+            </div>
+        <div id="para3">
+              <p>
+                  
+              </p>
+             </div>
+         </div>
+        </div>
+
+
 
     <!--PORTFOLIO-->
     <div class="row p-5">
@@ -93,8 +132,9 @@
              <div class="col-12">
                 <h3 class="P-5"><strong>CONTACT US</strong></h3>
                 <form id="form">
-                    <input type="text" placeholder="Name..."> &nbsp;&nbsp;&nbsp;
-                    <input type="email" placeholder="Email...">
+                    <input type="text" placeholder="Name..." id="name"> &nbsp;&nbsp;&nbsp;
+                    <input type="email" placeholder="Email..." id="email">
+                    <input type="button" value="submit" onclick="send()">
                 </form>
                 <div class="text">
                 <textarea rows="6" cols="80" name="comment" class="jutify-content-center" >
@@ -122,7 +162,7 @@
 
              </div>
          </div>
-
+ 
              
            
              
