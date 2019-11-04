@@ -6,6 +6,10 @@ $("#image1,#para1").on("click",function(){
 $("#image2,#para2").on("click",function(){
     $("#image2,#para2").toggleClass("d-none");
 
+});
+$("#image3,#para3").on("click",function()
+{
+    $("#image3,#para3").toggleClass("d-none");
 })
 });
  
