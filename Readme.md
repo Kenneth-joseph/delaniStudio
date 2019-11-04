@@ -9,23 +9,26 @@
 > **Visual presentation of my work**
  >>##### homepage
 ![this shows the users page](images/readme/del1.png)
+![this shows the users page](images/readme/del3.png)
+![this shows the users page](images/readme/del2.png)
 
 
  ## Description
 >This page is meant give a brief elaboration to my portfolio and the services we offer to the user
 
 ## Who it serves
->This page is meant for the public anybody can use it to know there AKAN names.
+>This site is meant for my clients who wants to view how we operate in our company and the services we offer and there quality 
 
 ## Access the site
 > To access the website, click on the link provided here;
->[akan naming](https://kenneth-joseph.github.io/proj-2-know/)
+>[akan naming](https://kenneth-joseph.github.io/delaniStudio/)
 
 ## Technologies Used
 >The following are the list of technology used
  - HTML
  - CSS
  - JAVASCRIPT
+ - J Query
 
  ## Contact me
  > To contact me please call this number : 0708037786
