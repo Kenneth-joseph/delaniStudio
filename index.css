@@ -96,20 +96,19 @@ background-repeat: no-repeat;
 color:white;
 }
 
-#form{
-display: flex;
-justify-content: center;
-
-}
-
 #form input{
-width: 30%;
 background-color: transparent;
 color:white;
+width:20%;
 }
 ::placeholder{
     color: white;
     padding: 10px;
+}
+#form input[type=button]{
+    width:5%;
+    background-color: black;
+    margin-bottom: 10px;
 }
 
 textarea{
@@ -117,11 +116,6 @@ background-color: transparent;
 color:white;
 margin-top:20px;
 margin-bottom: 10px;
-}
-
-.text{
-display: flex;
-justify-content: center;
 }
 
 /*SOCIAL ICONS*/
