@@ -74,5 +74,5 @@ $(".pic8").mouseleave(function(){
 function send(){
     var nameR= document.getElementById("name").value;
     var emailE = document.getElementById("email").value;
-    alert("your name is "+ nameR + "your emal is " + emailE);
+    alert("we have recieved your email " + nameR);
 }
