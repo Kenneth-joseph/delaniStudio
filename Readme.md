@@ -21,7 +21,7 @@
 
 ## Access the site
 > To access the website, click on the link provided here;
->[akan naming](https://kenneth-joseph.github.io/delaniStudio/)
+>[delani page](https://kenneth-joseph.github.io/delaniStudio/)
 
 ## Technologies Used
 >The following are the list of technology used
