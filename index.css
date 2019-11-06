@@ -119,10 +119,6 @@ margin-bottom: 10px;
 }
 
 /*SOCIAL ICONS*/
-.social{
- display:flex;
- justify-content:center;
-}
 
 .social img{
     padding: 20px;
